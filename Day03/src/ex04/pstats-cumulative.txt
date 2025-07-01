@@ -1,0 +1,15 @@
+Sun May  4 22:56:57 2025    profile.prof
+
+         789621 function calls (765110 primitive calls) in 2.213 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2360 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    329/1    0.005    0.000    2.213    2.213 {built-in method builtins.exec}
+        1    0.000    0.000    2.213    2.213 financial_enhanced.py:1(<module>)
+        1    0.000    0.000    2.059    2.059 financial_enhanced.py:7(get_page)
+        1    0.000    0.000    1.840    1.840 /home/perraseb/perraseb/Data_Science_Bootcamp/DS_Bootcamp.Day03.ID_886513-1/src/ex00/azimov/lib/python3.11/site-packages/httpx/_client.py:1036(get)
+        1    0.000    0.000    1.840    1.840 /home/perraseb/perraseb/Data_Science_Bootcamp/DS_Bootcamp.Day03.ID_886513-1/src/ex00/azimov/lib/python3.11/site-packages/httpx/_client.py:771(request)
+
+
