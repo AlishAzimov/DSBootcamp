@@ -1,0 +1,8 @@
+Peak Memory Usage = 2.058 GB
+User Mode Time + System Mode Time = 1.69s
+Peak Memory Usage = 0.010 GB
+User Mode Time + System Mode Time = 1.27s
+Peak Memory Usage = 0.010 GB
+User Mode Time + System Mode Time = 1.24s
+Peak Memory Usage = 2.058 GB
+User Mode Time + System Mode Time = 1.58s

@@ -1,0 +1,9 @@
+============================= test session starts ==============================
+platform linux -- Python 3.11.12, pytest-8.3.5, pluggy-1.5.0
+rootdir: /home/perraseb/perraseb/Data_Science_Bootcamp/DS_Bootcamp.Day03.ID_886513-1/src/ex05
+plugins: anyio-4.9.0
+collected 4 items
+
+financial_test.py ....                                                   [100%]
+
+============================== 4 passed in 6.51s ===============================
