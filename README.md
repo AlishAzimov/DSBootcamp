@@ -59,7 +59,7 @@
 
 ---
 
-![Сертификат Bootcamp](certificate.png)
+![Сертификат Bootcamp](Certificate.png)
 ![Сертификат Bootcamplist1](Certificate_list1.png)
 ![Сертификат Bootcamplist2](Certificate_list2.png)
 
